@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 1117,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Jake Peterson",
+            "title": "How to Find All the Old Product Icons Apple Has Hidden in macOS",
+            "description": "As a lifelong Mac user, I always love learning about something hidden feature of my computer, such as the ability to change your mouse’s cursor color. So you can imagine my delight in stumbling upon this Reddit thread, where user OOF_V2 shared a hidden treasu…",
+            "url": "https://lifehacker.com/how-to-find-all-the-old-product-icons-apple-has-hidden-1848301929",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cbff6878f9fd56b91cd5b7f98c5afed9.png",
+            "publishedAt": "2022-01-05T14:00:00Z",
+            "content": "As a lifelong Mac user, I always love learning about something hidden feature of my computer, such as the ability to change your mouses cursor color. So you can imagine my delight in stumbling upon t… [+1638 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Valentina Palladino",
+            "title": "Apple's 24-inch iMac M1 is cheaper than ever on Amazon right now",
+            "description": "Those looking to add a speedy desktop to their household, or upgrade from an old machine, should consider Apple's latest iMac. The sleek machine earned a score of 89 from us thanks in part to its fast performance and updated design, and now you can pick up th…",
+            "url": "https://www.engadget.com/apples-24-inch-imac-m1-is-cheaper-than-ever-on-amazon-right-now-135540267.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/f4fdb100-b752-11eb-ab79-10956a28523a",
+            "publishedAt": "2022-01-05T13:55:40Z",
+            "content": "Those looking to add a speedy desktop to their household, or upgrade from an old machine, should consider Apple's latest iMac. The sleek machine earned a score of 89 from us thanks in part to its fas… [+1765 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lucas Ropek",
+            "title": "FTC to Companies: Patch Log4j ASAP or Suffer Our Wrath",
+            "description": "The Federal Trade Commission has a message for companies that aren’t taking the threat posed by log4j to heart: Patch up or lawyer up. Consider yourselves warned.Read more...",
+            "url": "https://gizmodo.com/ftc-to-companies-patch-log4j-asap-or-suffer-our-wrath-1848303300",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/1915b28813e28dab3c5a834610e14f9d.jpg",
+            "publishedAt": "2022-01-05T02:05:00Z",
+            "content": "The Federal Trade Commission has a message for companies that arent taking the threat posed by log4j to heart: Patch up or lawyer up. Consider yourselves warned.\r\nBy now, youve surely heard of the af… [+2589 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "German cartel office examining Google, considering cases involving Amazon, Apple, Meta - Reuters",
+            "description": "Germany's cartel office said it had determined that Alphabet and its subsidiary Google met the scale threshold required for it to be subject to the new expanded supervisory powers it has been given to regulate digital companies.",
+            "url": "https://www.reuters.com/technology/german-cartel-office-examining-google-considering-cases-involving-amazon-apple-2022-01-05/",
+            "urlToImage": "https://www.reuters.com/resizer/w_7rUkSZ9E19hHtSA2YukE4U7B4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TDRY2FSOX5L55EUW3MXF4NLXM4.jpg",
+            "publishedAt": "2022-01-05T09:32:00Z",
+            "content": "BERLIN, Jan 5 (Reuters) - Germany's cartel office said it had determined that Alphabet and its subsidiary Google met the scale threshold required for it to be subject to the new expanded supervisory … [+672 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Taiwan December exports seen up for 18th straight month - Reuters",
+            "description": "Taiwan's exports likely rose for the 18th straight month in December, a Reuters poll showed, boosted by sustained demand for chips and hi-tech gadgets and the year-end shopping season.",
+            "url": "https://www.reuters.com/markets/asia/taiwan-december-exports-seen-up-18th-straight-month-2022-01-05/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=66",
+            "publishedAt": "2022-01-05T03:58:00Z",
+            "content": "TAIPEI, Jan 5(Reuters) - Taiwan's exports likely rose for the 18th straight month in December, a Reuters poll showed, boosted by sustained demand for chips and hi-tech gadgets and the year-end shoppi… [+1117 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Startup ONE says battery prototype delivered 750-mile range - Reuters",
+            "description": "Our Next Energy (ONE), a two-year-old Michigan startup, said on Wednesday it had tested a prototype of its new battery in a Tesla Model S, driving 752 miles (1,210 kilometers) before recharging.",
+            "url": "https://www.reuters.com/technology/startup-one-says-battery-prototype-delivered-750-mile-range-2022-01-05/",
+            "urlToImage": "https://www.reuters.com/resizer/IURgb7y7uThKC_RTSTxu2FpM8ww=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JFSVVADVAJICJPHW75MH5SN5PE.jpg",
+            "publishedAt": "2022-01-05T05:14:00Z",
+            "content": "DETROIT, Jan 5 (Reuters) - Our Next Energy (ONE), a two-year-old Michigan startup, said on Wednesday it had tested a prototype of its new battery in a Tesla Model S, driving 752 miles (1,210 kilomete… [+1813 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "Kuo: Apple's AR/VR Headset to Feature 'Pancake Lenses' Allowing for Lighter and More Compact Design",
+            "description": "Apple's widely-rumored AR/VR headset is coming at the end of 2022, with shipments to ramp up in the first quarter of 2023, according to analyst Ming-Chi Kuo. \n\n\n\n\n\nIn a research note with TF International Securities, obtained by MacRumors, Kuo said Apple's he…",
+            "url": "https://www.macrumors.com/2022/01/05/kuo-apple-headset-pancake-lenses/",
+            "urlToImage": "https://images.macrumors.com/t/4M5CqIlQyUKDIGHeeuAq-WaZYxI=/2006x/article-new/2021/03/apple-mixed-reality-headset-mockup-feature-purple.jpg",
+            "publishedAt": "2022-01-05T05:29:04Z",
+            "content": "Apple's widely-rumored AR/VR headset is coming at the end of 2022, with shipments to ramp up in the first quarter of 2023, according to analyst Ming-Chi Kuo. \r\nIn a research note with TF Internationa… [+640 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zacks.com"
+            },
+            "author": "Zacks Equity Research",
+            "title": "The Zacks Analyst Blog Highlights: Apple, Alphabet, Microsoft, Amazon and Meta Platforms.",
+            "description": "Apple, Alphabet, Microsoft, Amazon and Meta Platforms. are highlighted in this analyst blog.",
+            "url": "http://www.zacks.com/stock/news/1847461/the-zacks-analyst-blog-highlights-apple-alphabet-microsoft-amazon-and-meta-platforms?cid=CS-ENTREPRENEUR-FT-press_releases-1847461",
+            "urlToImage": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-411564.jpeg",
+            "publishedAt": "2022-01-05T10:45:00Z",
+            "content": "For Immediate Release\r\n - Zacks\r\nChicago, IL January 5, 2022 Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news … [+8273 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "Apple's Third Potential Supplier of Mini-LED Display Chips Hits Certification Hurdle",
+            "description": "Apple's search for additional mini-LED display suppliers has hit a speed bump after its primary candidate's latest attempt to pass certification failed, according to a new industry report.\n\n\n\n\n\nApple's 2021 M1-powered 12.9-inch ‌iPad Pro‌ was the first Apple …",
+            "url": "https://www.macrumors.com/2022/01/05/apple-mini-led-supplier-hits-quality-hurdle/",
+            "urlToImage": "https://images.macrumors.com/t/6PPyzwpY4Zteqwwky9TbcZcjS1w=/1600x/article-new/2013/09/macbook-pro-sizes-space-gray.jpg",
+            "publishedAt": "2022-01-05T09:18:12Z",
+            "content": "Apple's search for additional mini-LED display suppliers has hit a speed bump after its primary candidate's latest attempt to pass certification failed, according to a new industry report.\r\nApple's 2… [+2105 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "CES 2022: Belkin Debuts New Find My-Compatible Soundform Noise Cancelling Earbuds",
+            "description": "Belkin today introduced new high-end Soundform earbuds, which offer Hybrid Active Noise Cancellation and integration with Apple's Find My app.\n\n\n\n\n\nAccording to Belkin, the Soundform Immerse Noise Cancelling Earbuds are the company's top-of-the-line audio sol…",
+            "url": "https://www.macrumors.com/2022/01/04/belkin-soundform-find-my-earbuds/",
+            "urlToImage": "https://images.macrumors.com/t/Z-x4SWSpThzWVShttOPjIzXaOhc=/2000x/article-new/2021/12/belkin-soundform-earbuds-anc-2.jpg",
+            "publishedAt": "2022-01-05T03:02:00Z",
+            "content": "Belkin today introduced new high-end Soundform earbuds, which offer Hybrid Active Noise Cancellation and integration with Apple's Find My app.\r\nAccording to Belkin, the Soundform Immerse Noise Cancel… [+1245 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "CES 2022: Wemo Lineup Gains HomeKit Secure Video-Compatible Smart Doorbell",
+            "description": "Belkin's Wemo brand is gaining a new Wemo Smart Video Doorbell, which is a camera-equipped doorbell option that supports HomeKit Secure Video. The Wemo Smart Video Doorbell offers a 4-megapixel high-resolution camera with a 178-degree field of view, zoom func…",
+            "url": "https://www.macrumors.com/2022/01/04/wemo-homekit-video-doorbell/",
+            "urlToImage": "https://images.macrumors.com/t/T8hRNkatklh-y7krnePDI34-6Ms=/2000x/article-new/2021/12/belkin-wemo-doorbell.jpg",
+            "publishedAt": "2022-01-05T03:00:00Z",
+            "content": "Belkin's Wemo brand is gaining a new Wemo Smart Video Doorbell, which is a camera-equipped doorbell option that supports HomeKit Secure Video. The Wemo Smart Video Doorbell offers a 4-megapixel high-… [+1723 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Jurgita Lapienytė",
+            "title": "The future of the internet: will we ever cease to be a commodity?",
+            "description": "With big tech firmly holding the grip of the internet and us being so used to free internet that privacy isn't that much of a concern, can Web 3.0 take...",
+            "url": "https://www.entrepreneur.com/article/411551",
+            "urlToImage": "https://assets.entrepreneur.com/providers/cybernews/hero-image-cybernews-411551.jpeg",
+            "publishedAt": "2022-01-05T08:42:00Z",
+            "content": "We got used to being a commodity as long as services like Facebook are free. But the dawning Web 3.0 era is about to revolutionize todays internet, and hopefully put us back in control of our data an… [+7187 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Rubén Chicharro",
+            "title": "Cierra Popcorn Time, la popular web pirata para ver series y películas",
+            "description": "Popcorn Time, el popular portal para ver contenido pirata de plataformas como Netflix, ha cerrado definitivamente, según reporta Bloomberg, quien asegura que los desarrolladores de la plataforma enviaron un comunicado anunciando que la web ha dejado de estar …",
+            "url": "https://hipertextual.com/2022/01/cierra-popcorn-time-la-popular-web-pirata-para-ver-series-y-peliculas",
+            "urlToImage": "https://hipertextual.com/wp-content/uploads/2022/01/popcorn-time-01.jpg",
+            "publishedAt": "2022-01-05T10:59:49Z",
+            "content": "Popcorn Time, el popular portal para ver contenido pirata de plataformas como Netflix, ha cerrado definitivamente, según reporta Bloomberg, quien asegura que los desarrolladores de la plataforma envi… [+2193 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Callum Booth",
+            "title": "I hope to God that Intel’s new Core i9 processor crushes Apple’s M1 Max",
+            "description": "In 2020, Apple managed the impossible: it made chipsets sexy. People actually talked about processors. But the release of the M1 did more than get public attention, it also shook up the whole computing industry. The chip helped Apple’s Macbooks deliver incred…",
+            "url": "https://thenextweb.com/news/intel-new-core-i9-processor-faster-than-apple-m1-max-analysis",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fheader-image-intel-Core-i9-processor-crushes-Apples-M1-Max.jpg&signature=1d41a7a81c305f01ac3fce3f37e5c1d7",
+            "publishedAt": "2022-01-05T11:50:14Z",
+            "content": "In 2020, Apple managed the impossible: it made chipsets sexy. People actually talked about processors.\r\nBut the release of the M1 did more than get public attention, it also shook up the whole comput… [+2310 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "The Conversation",
+            "title": "Contrary to popular belief, middle-aged entrepreneurs do better",
+            "description": "Bill Gates was 21 when he and Paul Allen registered Microsoft. Steve Jobs was 22 when he and Steve Wozniak launched Apple. Mark Zuckerberg started Facebook in his Harvard dormitory. The biographies of these tech billionaires who achieved great success in thei…",
+            "url": "https://thenextweb.com/news/why-older-entrepreneurs-do-better",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/growth-quarters?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Folder-ceo.jpeg&signature=206b00ec8bc28b878832d4a76f7fe9a3",
+            "publishedAt": "2022-01-05T09:00:46Z",
+            "content": "Bill Gates was 21 when he and Paul Allen registered Microsoft. Steve Jobs was 22 when he and Steve Wozniak launched Apple. Mark Zuckerberg started Facebook in his Harvard dormitory.\r\nThe biographies … [+4236 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "The Daily Beast",
+            "title": "She Went Undercover in MAGA for a Year—What She Found Was ‘Alarming’",
+            "description": "Photo Illustration by The Daily Beast/Photos by GettyWhen Amanda Moore lost her job, she decided to go undercover in MAGA land, attending QAnon events and...",
+            "url": "https://www.thedailybeast.com/she-went-undercover-in-the-maga-movement-for-a-year-what-she-found-was-alarming?source=articles&via=rss",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/dnGIGileRyfxNl7iUoflvA--~B/aD02NTg7dz0xMTcwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thedailybeast.com/b652a0b0631e8b35db3581ca188026b8",
+            "publishedAt": "2022-01-05T10:01:39Z",
+            "content": "Photo Illustration by The Daily Beast/Photos by Getty\r\nWhen Amanda Moore lost her job, she decided to go undercover in MAGA land, attending QAnon events and CPAC, hanging with neo-Nazis and blood-and… [+4420 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Enrique Pérez",
+            "title": "El Samsung Home Hub es un paso lógico de interacción con la domótica: un mando a distancia para controlar todos los aparatos de casa",
+            "description": "El ecosistema SmartThings ha cumplido 10 años y pese a que cada año muestran novedades, sus avances parece que llegan muy poco a poco. Además de su proyector conectado, durante el CES 2022 Samsung ha presentado el nuevo Home Hub, un accesorio para la domótica…",
+            "url": "https://www.xataka.com/domotica-1/samsung-home-hub-paso-logico-interaccion-domotica-mando-a-distancia-para-controlar-todos-aparatos-casa",
+            "urlToImage": "https://i.blogs.es/f7f332/samsung-home-hub/840_560.jpg",
+            "publishedAt": "2022-01-05T12:49:13Z",
+            "content": "El ecosistema SmartThings ha cumplido 10 años y pese a que cada año muestran novedades, sus avances parece que llegan muy poco a poco. Además de su proyector conectado, durante el CES 2022 Samsung ha… [+2283 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Ricardo Aguilar",
+            "title": "OnePlus 10 Pro: una bestia de gama alta que carga más rápido que nunca",
+            "description": "OnePlus acaba de anunciar las principales especificaciones y características del OnePlus 10 Pro, su modelo más alto de gama para 2022. Se trata de una evolución respecto al OnePlus 9 Pro que vimos el año pasado, repitiendo con Hasselblad para la cámara y mont…",
+            "url": "https://www.xataka.com/moviles/oneplus-10-pro-caracteristicas-precio-ficha-tecnica",
+            "urlToImage": "https://i.blogs.es/8028cb/2-green-headshot/840_560.jpg",
+            "publishedAt": "2022-01-05T01:00:28Z",
+            "content": "OnePlus acaba de anunciar las principales especificaciones y características del OnePlus 10 Pro, su modelo más alto de gama para 2022. Se trata de una evolución respecto al OnePlus 9 Pro que vimos el… [+2636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Simon Sage",
+            "title": "Nanoleaf adds Thread to HomeKit support for Shapes, Elements, and Lines smart lights",
+            "description": "Nanoleaf's Shapes, Elements, and Lines smart lights can now use Thread over HomeKit. This should help simplify network management.",
+            "url": "https://www.digitaltrends.com/home/nanoleaf-adds-thread-over-homekit-support-smart-lights/",
+            "urlToImage": "https://icdn.digitaltrends.com/image/digitaltrends/nanoleaf-lines-lifestyle-1.jpg",
+            "publishedAt": "2022-01-05T14:00:31Z",
+            "content": "Nanoleaf is patching its Thread-capable smart lights to include support for Apple HomeKit. The update is rolling out today for the company’s Shapes, Elements, and Lines products. Now you can manage t… [+1651 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Erin Lawrence",
+            "title": "Homey probably works with all your smart devices. And it respects your privacy",
+            "description": "If you've ever tried to manage a smart home with a bunch of different brands, you know it can be frustrating. Homey aims for everyone to play nicely together.",
+            "url": "https://www.digitaltrends.com/news/homey-works-with-all-your-smart-devices-and-respects-privacy-ces-2022/",
+            "urlToImage": "https://icdn.digitaltrends.com/image/digitaltrends/homey-bridge-interior-3.jpg",
+            "publishedAt": "2022-01-05T14:05:09Z",
+            "content": "Anyone whos ever added smart home devices to their house knows you need to choose wisely, since some smart home gadgets dont mix so well with certain digital assistant devices or some kinds of home h… [+3038 chars]"
+        }
+    ]
+}
